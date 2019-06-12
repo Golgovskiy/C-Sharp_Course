@@ -53,7 +53,7 @@ namespace Homework_3
         public Test1()
         { for (int i = 0; i < arr.Length; i++)
             {
-                arr[i] = i;
+                arr[i] = i*12;
             }
         }
 
